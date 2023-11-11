@@ -1,5 +1,5 @@
 import os
-from database import Database
+from db import Database
 
 class Interface:
 
